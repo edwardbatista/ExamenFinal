@@ -1,0 +1,15 @@
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/bin/Debug/net7.0/ExamenFinal
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/bin/Debug/net7.0/ExamenFinal.deps.json
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/bin/Debug/net7.0/ExamenFinal.runtimeconfig.json
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/bin/Debug/net7.0/ExamenFinal.dll
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/bin/Debug/net7.0/ExamenFinal.pdb
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.csproj.AssemblyReference.cache
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.AssemblyInfoInputs.cache
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.AssemblyInfo.cs
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.csproj.CoreCompileInputs.cache
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.dll
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/refint/ExamenFinal.dll
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.pdb
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ExamenFinal.genruntimeconfig.cache
+/Users/eduardobatista/Projects/ExamenFinal/ExamenFinal/obj/Debug/net7.0/ref/ExamenFinal.dll
